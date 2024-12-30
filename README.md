@@ -1,7 +1,7 @@
 # TechCertify_Mobile_App
 # Free Online Certification Courses App - TechCertify
 
-TechCertify is an Android application designed to provide users with free online course links for various trending and in-demand fields. The app is built using Java and XML in Android Studio. It focuses on offering a user-friendly interface for users to explore and access educational content effortlessly.
+TechCertify is an basic Android application designed to provide users with free online course links for various trending and in-demand fields. The app is built using Java and XML in Android Studio. It focuses on offering a user-friendly interface for users to explore and access educational content effortlessly.
 
 ## Features
 
