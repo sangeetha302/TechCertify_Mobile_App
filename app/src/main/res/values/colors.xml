@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6200EE</color> <!-- Purple as primary color -->
+    <color name="primaryDark">#3700B3</color> <!-- Darker shade of primary -->
+    <color name="accent">#03DAC5</color> <!-- Accent color -->
+    <color name="white">#FFFFFF</color> <!-- White color -->
+    <color name="link">#0000EE</color> <!-- Link color -->
+    <color name="teal_700">#00796B</color>
+    <color name="customToolbarColor">#3700b3</color>
+
+
+</resources>
